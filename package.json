@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matheusgondra/clone-facebook/issues"
   },
-  "homepage": "https://github.com/matheusgondra/clone-facebook#readme"
+  "homepage": "https://github.com/matheusgondra/clone-facebook#readme",
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
+  }
 }

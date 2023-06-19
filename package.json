@@ -1,0 +1,19 @@
+{
+  "name": "clone-facebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusgondra/clone-facebook.git"
+  },
+  "author": "Matheus de Gondra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheusgondra/clone-facebook/issues"
+  },
+  "homepage": "https://github.com/matheusgondra/clone-facebook#readme"
+}
